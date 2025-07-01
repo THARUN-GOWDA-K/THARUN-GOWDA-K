@@ -7,10 +7,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔐 I'm **Tharun Gowda K**, a Computer Science and Engineering student at **Sri Venkateshwara College of Engineering**, Bengaluru.
-- 🚀 I love building **secure, scalable systems** and working with **modern tech stacks**.
-- 🤖 Exploring **AI-powered applications**, cloud security, and DevOps.
-- 📚 Always hungry to learn new things — currently diving deep into **ethical hacking & cloud architecture**.
+-  🚀I'm **Tharun Gowda K**, a Computer Science and Engineering student at **Sri Venkateshwara College of Engineering**, Bengaluru.
+-  Seeking a position that allows me to apply my strong analytical and problem-solving skills,
+along with my passion for continuous learning, to make a positive impact and contribute to the overall goals of the organization.
 
 ---
 
@@ -49,8 +48,8 @@
 
 ### 🏆 Achievements
 
-- 🥇 Participated in hackathons and security challenges.
-- 🌐 Built full-stack apps, CLI tools, and security scripts.
+- 🥇 Participated in hackathons
+- 🌐 Built full-stack apps
 - 🧠 Active contributor on platforms like LeetCode and GeeksforGeeks.
 
 ---
