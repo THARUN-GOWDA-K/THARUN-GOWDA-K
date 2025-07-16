@@ -49,7 +49,7 @@ along with my passion for continuous learning, to make a positive impact and con
 ### 🏆 Achievements
 
 - 🥇 Participated in hackathons
-- 🌐 Built full-stack apps
+- 🌐 Built Web Applications
 - 🧠 Active contributor on platforms like LeetCode and GeeksforGeeks.
 
 ---
