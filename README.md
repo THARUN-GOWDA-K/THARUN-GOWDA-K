@@ -30,8 +30,8 @@ along with my passion for continuous learning, to make a positive impact and con
 | -------------- | --------- |
 | Degree | B.E - Computer Science and Engineering |
 | Years | 2022-2026 |
-| CGPA| 8.2 |
-| Location | Bngaluru,Karnataka |
+| CGPA| 7.9 |
+| Location | Bengaluru,Karnataka |
 ---
 
 
